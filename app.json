@@ -10,19 +10,19 @@
     "repository": "https://github.com/steallootdeal/auto_forwarder",
     "env": {
         "APP_ID": {
-            "description": "18443762"
+            "description": ""
         },
         "API_HASH": {
-            "description": "a14eb15b00ffaa1f54a7bf93cd521e92"
+            "description": ""
         },
         "FROM_CHANNEL": {
-            "description": "-1002029423962"
+            "description": ""
         },
         "TO_CHANNEL": {
-            "description": "-1002107541705"
+            "description": ""
         },
         "SESSION": {
-            "description": "BAEZbfIAwOpXiWwhYvPsh5EAgB2jR5SlYNKVMaKbZrycSeMQunlH59V-ZlDib8OZ-syLr0fr4ubZ3pYtCJ-_z5whXHof-8X-4A0702BgmMccniiGLkMSyG_VUS-KRYxC3hwQFhkG1Bd7NvC3cVXcnAQRES2TFCdFsM3zV2rkIVELBITG-qXIWWazzkSFwUad2duG0_bDzPK4un8Kymb26UfVSim506NmbroOsnyiku-DGqL57OQ5o6KV08uQRLNNPDzBa-TKgVijUfK9XDebke_CqQ76Gkv6IZsO_KW1BsPEVsGhgdpvqORFH3CDOR7fy5ekSpflAmfEN46YHiJeT8-3BoTKNAAAAABBFe8_AA"
+            "description": ""
         }
     },
     "buildpacks": [
